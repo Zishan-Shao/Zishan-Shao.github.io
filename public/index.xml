@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zishan Shao</title>
+    <link>https://zishan-shao.github.io/</link>
+    <description>Recent content on Zishan Shao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zishan-shao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Annoucements</title>
+      <link>https://zishan-shao.github.io/home/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zishan-shao.github.io/home/</guid>
+      
+        <description>home</description>
+      
+    </item>
+    
+    <item>
+      <title>Hobbys</title>
+      <link>https://zishan-shao.github.io/genshin/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zishan-shao.github.io/genshin/</guid>
+      
+        <description>genshin</description>
+      
+    </item>
+    
+    <item>
+      <title>Personal Info</title>
+      <link>https://zishan-shao.github.io/about/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zishan-shao.github.io/about/</guid>
+      
+        <description>about</description>
+      
+    </item>
+    
+    <item>
+      <title>Research Experiences</title>
+      <link>https://zishan-shao.github.io/research/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zishan-shao.github.io/research/</guid>
+      
+        <description>Wake Forest WFU Parallel Machine Learning Group	Winston-Salem, NC Undergraduate Research Assistant	Spring 2022 – Present</description>
+      
+    </item>
+    
+  </channel>
+</rss>

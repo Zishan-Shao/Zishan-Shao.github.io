@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>work on Zishan Shao</title>
+    <link>https://zishan-shao.github.io/tags/work/</link>
+    <description>Recent content in work on Zishan Shao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zishan-shao.github.io/tags/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hobbys</title>
+      <link>https://zishan-shao.github.io/genshin/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zishan-shao.github.io/genshin/</guid>
+      
+        <description>genshin</description>
+      
+    </item>
+    
+  </channel>
+</rss>
