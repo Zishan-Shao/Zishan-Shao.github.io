@@ -1,13 +1,12 @@
 ---
 title: "Hobbys"
 date: 2023-07-07
-url: "/genshin/"
-summary: genshin
+url: "/hobby/"
+summary: hobby
 
 cover: 
     captiion: 'Hobbys and Daily Life'
 tags: ["life", "work"]
-categories: ["genshin"]
 draft: false
 ---
 
@@ -65,6 +64,7 @@ Pull-ups: 45 lbs x 4.5 times
     </div>
 
 
+<!---
 
 ---
 
@@ -75,3 +75,5 @@ Pull-ups: 45 lbs x 4.5 times
 I love playing Genshin Impact all day long and do nothing at all
 
 ---
+
+-->

@@ -23,7 +23,7 @@ title = "Zishan Shao"
 author = "Zishan Shao"
 copyright = "2023"
 description = "Undergraduate Researcher at Wake Forest University\nshaoz20@wfu.edu\n "
-profilePicture = "../raiden.png"
+profilePicture = "../me.jpeg" # "../raiden.png"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
@@ -93,7 +93,7 @@ unsafe= true
   name = "Home"
   identifier = "home"
   weight = 100
-  url = "/home/"
+  url = "/"
 
   [[menu.main]]
   name = "About"
@@ -114,10 +114,10 @@ unsafe= true
   url = "/research/"
 
   [[menu.main]]
-  name = "WeightLifting & Genshin"
+  name = "Hobbys"
   weight = 400
-  identifier = "Genshin"
-  url = "/Genshin/"
+  identifier = "hobby"
+  url = "/hobby/"
 
   #[[menu.main]]
   #name = "Publications"

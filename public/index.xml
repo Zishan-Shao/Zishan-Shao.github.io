@@ -1,37 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zishan Shao</title>
+    <title>Annoucements on Zishan Shao</title>
     <link>https://zishan-shao.github.io/</link>
-    <description>Recent content on Zishan Shao</description>
+    <description>Recent content in Annoucements on Zishan Shao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zishan-shao.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Annoucements</title>
-      <link>https://zishan-shao.github.io/home/</link>
-      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://zishan-shao.github.io/home/</guid>
-      <description>home</description>
-    </item>
-    
-    <item>
-      <title>Hobbys</title>
-      <link>https://zishan-shao.github.io/genshin/</link>
-      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://zishan-shao.github.io/genshin/</guid>
-      <description>genshin</description>
-    </item>
-    
-    <item>
-      <title>Personal Info</title>
+      <title></title>
       <link>https://zishan-shao.github.io/about/</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://zishan-shao.github.io/about/</guid>
-      <description>about</description>
+      <description>Bio I&amp;rsquo;m a skilled Computer Science and Statistics student at Wake Forest University, with a particular focus on High Performance Computing (HPC), Machine Learning, Multivariate Analysis, and other key subjects.</description>
+    </item>
+    
+    <item>
+      <title>Hobbys</title>
+      <link>https://zishan-shao.github.io/hobby/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zishan-shao.github.io/hobby/</guid>
+      <description>hobby</description>
     </item>
     
     <item>
