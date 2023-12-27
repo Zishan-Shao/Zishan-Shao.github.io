@@ -8,8 +8,8 @@ draft: false
 ---
 
 ---
-## Seeking Ph.D. Opportunities
-I'm currently seeking opportunities to be a Ph.D. student at universities focusing on machine learning, communication-efficient algorithms, high-performance computing, and convex optimization. Thrill to collaborate with people from different academic, demographic, ethnical backgrounds and happy to help freshmen, sophormore, juniors who is interested in efficient machine learning algorithms!!
+## Seeking MS/Ph.D. Opportunities
+I'm currently seeking opportunities to be a MS/Ph.D. student at universities focusing on machine learning, communication-efficient algorithms, data science, high-performance computing, and convex optimization. Thrill to collaborate with people from different academic, demographic, ethnical backgrounds and happy to help freshmen, sophormore, juniors who is interested in efficient machine learning algorithms!!
 
 ---
 
