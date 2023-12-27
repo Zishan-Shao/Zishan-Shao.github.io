@@ -19,9 +19,9 @@ draft: false
 
 ## WeigthLifting Overview
 
-#### *Personal Records (PR)* : 945 lbs 
+#### *Personal Records (PR)* : 945 lbs / 430 kg
 
-Bench Press: 230 lbs | 2023.10.14
+Bench Press: 230 lbs / 105kg | 2023.10.14
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <video width="320" height="240" controls>
@@ -31,7 +31,7 @@ Bench Press: 230 lbs | 2023.10.14
 </div>
 
 
-Squats: 330 lbs | 2023.11.3
+Squats: 330 lbs / 150kg | 2023.11.3
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <video width="320" height="240" controls>
@@ -41,7 +41,7 @@ Squats: 330 lbs | 2023.11.3
 </div>
 
 
-Deadlifts: 385 lbs <br>
+Deadlifts: 385 lbs / 175kg <br>
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <video width="320" height="240" controls>
