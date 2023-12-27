@@ -19,34 +19,33 @@ draft: false
 
 ## WeigthLifting Overview
 
-#### *Personal Records (PR)* : 890 lbs 
+#### *Personal Records (PR)* : 945 lbs 
 
-Bench Press: 210 lbs | 2023.5.31
+Bench Press: 230 lbs | 2023.10.14
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <video width="320" height="240" controls>
-        <source src="../bench.mp4" type="video/mp4">
+        <source src="../bench-new.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </div>
 
 
-Squats: 305 lbs | 2023.4.27
+Squats: 330 lbs | 2023.11.3
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <video width="320" height="240" controls>
-        <source src="../squat.mp4" type="video/mp4">
+        <source src="../squat-new.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </div>
 
 
-Deadlifts: 375 lbs <br>
-My posture sucks, I know it .....
+Deadlifts: 385 lbs <br>
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <video width="320" height="240" controls>
-        <source src="../deadlift.mp4" type="video/mp4">
+        <source src="../deadlift-new.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
     </div>
@@ -63,6 +62,13 @@ Pull-ups: 45 lbs x 4.5 times
     </video>
     </div>
 
+
+
+## Brazillian Jiu-Jitsu (BJJ) Overview
+
+Currently white-belt, zero stride, in Paulo-Santana BJJ
+
+On my road to Black Belt!!!
 
 <!---
 

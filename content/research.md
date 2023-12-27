@@ -24,3 +24,50 @@ Undergraduate Research Assistant	Spring 2022 – Present
 -	Utilized quantitative methods in Python, including OpenCV, Scikit-image, and Scikit-learn, for image data processing
 -	Evaluated model performance with visualization tools such as Seaborn and OpenCV, and metrics including ROC, AUC curve, confusion matrix, sensitivity, specificity, and hyperparameter tuning
 -	Mentored by Victor Pauca (paucavp@wfu.edu)
+
+
+<br><br><br>
+
+## Publications
+
+1. **Communication-Avoiding Dual Coordinate Descent Methods for Kernelized Machine Learning**  
+    <i>Prospective 1st author, <span style="color:red;">in-submission</span> to International Conference on SuperComputing (ICS).</i>
+
+
+2. **PalmHeatNet: A Probabilistic Approach to Understanding Palm Distributions in Ecuadorian Tropical Forest via Transfer Learning**  
+   <i>Prospective 3rd author, <span style="color:red;">in-submission</span> to ACM-SouthernEast (ACM-SE).<i>
+
+<br><br><br>
+
+
+
+## Poster & Presentation
+
+- URECA Day 2023: S-Step Dual Coordinate Descent for Dual Support Vector Machines  
+  [View Working Sample (PDF)](../working_sample.pdf)
+
+
+<br><br><br>
+
+
+## Honors
+
+- **2022 COMAP's Interdisciplinary Contest in Modeling (ICM)**  
+  _Meritorious Winner_
+
+- **2023 Wake Forest Research Fellowship (WFRF)**  
+  _$4,000_
+
+- **Phi Beta Kappa Honorary Society**  
+  _Member_
+
+- **George Washington Greene Scholarship**  
+  _$350, one of seven recipients with either a 4.0 average or an average extremely close to a 4.0._
+
+- **Upsilon Pi Epsilon Honorary Society**  
+  _Member_
+
+- **Upsilon Pi Epsilon Scholarship Nomination**  
+  _$1,000_
+
+
