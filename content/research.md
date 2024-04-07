@@ -35,7 +35,7 @@ Undergraduate Research Assistant	Spring 2022 – Present
 
 
 2. **PalmHeatNet: A Probabilistic Approach to Understanding Palm Distributions in Ecuadorian Tropical Forest via Transfer Learning**  
-   <i>2rd author, <span style="color:green;">Acccepted</span> to 2024 ACM-SouthernEast (ACM-SE' 24).<i>
+   <i>2nd author, <span style="color:green;">Acccepted</span> to 2024 ACM-SouthernEast (ACM-SE' 24).<i>
 
 <br><br><br>
 
