@@ -31,11 +31,11 @@ Undergraduate Research Assistant	Spring 2022 – Present
 ## Publications
 
 1. **Communication-Avoiding Dual Coordinate Descent Methods for Kernelized Machine Learning**  
-    <i>Prospective 1st author, <span style="color:red;">in-submission</span> to 2024 International Conference on Parallel Processing (ICPP' 24).</i>
+   - *1st author, preprint on arXiv [here](https://arxiv.org/abs/2406.18001).*
 
 
 2. **PalmHeatNet: A Probabilistic Approach to Understanding Palm Distributions in Ecuadorian Tropical Forest via Transfer Learning**  
-   <i>2nd author, <span style="color:green;">Acccepted</span> to 2024 ACM-SouthernEast (ACM-SE' 24).<i>
+   - *2nd author, <span style="color:green;">Accepted</span> to 2024 ACM-SouthernEast (ACM-SE' 24) [here](https://arxiv.org/pdf/2403.03161).*
 
 <br><br><br>
 

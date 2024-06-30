@@ -30,11 +30,11 @@ I am actively exploring research opportunities spanning a wide range of topics w
 
 - **Statistical & Machine Learning**
   <br><br>
-- **Communication-Efficient Algorithms**
+- **Randomized Algorithms**
   <br><br>
 - **High-Performance Computing**
   <br><br>
-- **Numerical Methods**
+- **Numerical Linear Algebra**
 
 <br><br>
 
@@ -43,10 +43,7 @@ I am actively exploring research opportunities spanning a wide range of topics w
 
 ### In-Progress
 
-
-- **_Communication-Avoiding Coordinate Descent for ElasticNet and Regularization Path LASSO_**  
-  This project focuses on enhancing Coordinate Descent algorithms for Elastic-Net and Regularization Path LASSO, aiming to reduce communication overhead in distributed systems without compromising efficiency and effectiveness.
-
+- **_Efficient Dual Coordinate Descent via Low Rank Approximation_** This project aimed to investigate the potency of reducing communication cost by applying nystrom approximation technique in estimating the low rank gram matrices, the overhead of computation, in dual coordinate descent algorithms
 
 <!--
 - **_Optimizing Graph Neural Networks for Large-Scale Networks_ <span style="color:yellow;">(Idea Formation Stage)</span>**  
@@ -56,6 +53,12 @@ I am actively exploring research opportunities spanning a wide range of topics w
 <br>
 
 ### Finished Projects (More details in Research Section)
+
+
+- **_Communication-Avoiding Coordinate Descent for ElasticNet and Regularization Path LASSO_**  <br><br>
+<!--  This project focuses on enhancing Coordinate Descent algorithms for Elastic-Net and Regularization Path LASSO, aiming to reduce communication overhead in distributed systems without compromising efficiency and effectiveness.
+-->
+
 - **Communication-Avoiding Dual Coordinate Descent Methods for Kernelized Machine Learning** <br><br>
 - **PalmHeatNet: A Probabilistic Approach to Understanding Palm Distributions in Ecuadorian Tropical Forest via Transfer Learning.**
 

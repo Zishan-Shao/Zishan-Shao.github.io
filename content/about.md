@@ -27,10 +27,16 @@ I'm a skilled Computer Science and Statistics student at Wake Forest University,
 
 ### Education
 
+- **Duke University**, Durham, NC
+  - Master of Science in Statistics, in-progress
+
+
 - **Wake Forest University**, Winston-Salem, NC
-  - Bachelor of Science in Computer Science, Expected May 2024
-  - Second Major in Statistics
-  - Dean’s List: Fall 2020, Spring 2021, Fall 2021, Spring 2022, Fall 2022
+  - Bachelor of Science in Computer Science, May 2024
+  - Second Major (B.S.) in Statistics
+  - Dean’s List: All semesters, Summa Cum Laude
+  - Dissertation: ”Communication Avoiding Coordinate Descent Methods On Kernel And Regularized Linear Models” [PDF](../WFU_CS_Thesis.pdf)
+  - Advisor: Dr. Aditya Devarakonda
   - Relevant Coursework: Python, C, R, Java, Statistical & Machine Learning, Statistical Inferences, Linear Models, Multivariate Analysis, Probability, Network Theory & Analysis, Advanced Data Structures and Algorithms,  Assembly Languages, Computer System, Multivariate Calculus, Linear Algebra, Discrete Mathematics, Time Series Forecasting, Special Topics – Computer Vision, High-Performance Computing, Parallel Computing, Numerical Methods
 
 - **Shanghai Weiyu High School**, Shanghai, China
