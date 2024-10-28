@@ -19,7 +19,7 @@ draft: false
 
 ### Bio
 
-I'm a skilled Computer Science and Statistics student at Wake Forest University, with a particular focus on High Performance Computing (HPC), Machine Learning, Numerical Methods, and other key subjects. As an Undergraduate Research Assistant at Wake Forest IRSC Laboratory, I apply deep learning methodologies and quantitative techniques to intricate computer vision projects, involving semantic segmentation, object classification, and image data processing.
+I'm a skilled Computer Science and Statistics student at Wake Forest University, with a particular focus on High Performance Computing (HPC), Efficient and Scalable Machine Learning, Numerical Methods, and other key subjects. As an Undergraduate Research Assistant at Wake Forest IRSC Laboratory, I apply deep learning methodologies and quantitative techniques to intricate computer vision projects, involving semantic segmentation, object classification, and image data processing.
 
  
 <br>

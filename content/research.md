@@ -8,7 +8,7 @@ draft: false
 
 #### Wake Forest WFU Parallel Machine Learning Group	Winston-Salem, NC
 Undergraduate Research Assistant	Spring 2022 – Present
--	Conducted extensive research on communication-avoiding kernel machine learning algorithms (Ridge Regression, SVM)
+-	Conducted extensive research on **scalable and communication-avoiding** kernel machine learning algorithms (Ridge Regression, SVM, ElasticNets)
 -	 Developed novel kernel methods and optimization algorithms and experimented with S-step optimization algorithms to improve kernel function computation and optimization.
 -	 Utilized C programming and high-performance computer clusters for parallel computing with OpenMPI.
 -	 Performed sparsity analysis and compressed sparse row matrix operations using sparseblas and mkl packages.

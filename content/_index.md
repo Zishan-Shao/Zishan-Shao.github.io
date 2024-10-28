@@ -20,7 +20,7 @@ I'm currently seeking research opportunities across broad topics of statistics. 
 ---
 ## Actively Seeking Research Opportunities
 
-I am actively exploring research opportunities spanning a wide range of topics within statistics. My background encompasses interdisciplinary work across statistics, computer science, and applied mathematics. I hold a deep interest in the realms of statistical and machine learning theory, high-performance computing, and the development of efficient algorithms. I am eager to collaborate with individuals from diverse academic, demographic, and ethnic backgrounds, believing strongly in the value of multifaceted perspectives to drive innovation and discovery.
+I am actively exploring research opportunities spanning a wide range of topics with interdisciplinary of Computer Science and Statistics. My background encompasses interdisciplinary work across statistics, computer science, and applied mathematics. I hold a deep interest in the realms of Efficient and Scalable Machine Learning/Deep Learning, high-performance computing, and Scientific Computing. I am eager to collaborate with individuals from diverse academic, demographic, and ethnic backgrounds, believing strongly in the value of multifaceted perspectives to drive innovation and discovery.
 
 ---
 
@@ -28,13 +28,11 @@ I am actively exploring research opportunities spanning a wide range of topics w
 
 ## Research Interests
 
-- **Statistical & Machine Learning**
+- **Scalable & Efficient Machine Learning**
   <br><br>
-- **Randomized Algorithms**
+- **High-Performance Computing & MLSys**
   <br><br>
-- **High-Performance Computing**
-  <br><br>
-- **Numerical Linear Algebra**
+- **Scientific Computing**
 
 <br><br>
 
