@@ -1,11 +1,27 @@
 ---
 title: "Annoucements"
-date: 2023-07-07
+date: 2025-08-05
 layout: "home"
 summary: home
 url: "/"
 draft: false
 ---
+
+<style>
+body, p, li, div {
+    font-size: 18px !important;
+    line-height: 1.6 !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 1.4em !important;
+}
+
+/* Override any existing font sizes */
+* {
+    font-size: inherit;
+}
+</style>
 
 <!-- 
 ---
@@ -18,55 +34,60 @@ I'm currently seeking research opportunities across broad topics of statistics. 
 -->
 
 ---
-## Actively Seeking Research Opportunities
+## 🎯 Actively Seeking Ph.D Opportunities
 
-I am actively exploring research opportunities spanning a wide range of topics with interdisciplinary of Computer Science and Statistics. My background encompasses interdisciplinary work across statistics, computer science, and applied mathematics. I hold a deep interest in the realms of Efficient and Scalable Machine Learning/Deep Learning, high-performance computing, and Scientific Computing. I am eager to collaborate with individuals from diverse academic, demographic, and ethnic backgrounds, believing strongly in the value of multifaceted perspectives to drive innovation and discovery.
+I am actively exploring research opportunities spanning a wide range of topics with interdisciplinary of Computer Science and Statistics. My background encompasses interdisciplinary work across statistics, computer science, and applied mathematics. I hold a deep interest in the realms of **Efficient and Scalable Algorithms for Machine Learning and Deep Learning**. I also have expertise in **Machine Learning System and High Performance Computing**. 
+
+**Currently pursuing Master of Science in Statistical Science at Duke University**, working with Dr. Yiran Chen in the CEI Lab.
 
 ---
 
+
+## 🤝 Actively Seeking Collaborations
+
+I am actively seeking research collaborations and opportunities in the following areas:
+- **Machine Learning Systems and High-Performance Computing**
+- **Efficient and Scalable Algorithms for Deep Learning**
+- **Interdisciplinary research combining Statistics, Computer Science, and Applied Mathematics**
+
+<span style="color: red;"> 🎯 Always exciting to find peers in Duke for exciting topics in memory-efficient systems! Feel free to reach out if you're interested in collaborating on related projects. 🚀</span>
+
+
+---
+
+### **🔬 Research Interests:** Algorithm Efficiency, MLSys, High-Performance Computing, Scientific Computing
 <br><br>
 
-## Research Interests
 
-- **Scalable & Efficient Machine Learning**
-  <br><br>
-- **High-Performance Computing & MLSys**
-  <br><br>
-- **Scientific Computing**
+## 📄 Recent Publications
 
-<br><br>
+**6 Publications** including:
+- **4 papers in submission** to top-tier conferences (MLSys, ICLR, AAAI, NeurIPS)
+- **2 published/accepted papers** including ICML '25 and HPCAsia '25 (<span style="color: red;">🏆 Outstanding Paper Award</span>)
+- **First author** on 4 papers, contributing author on 2 papers
 
-## Research Projects
-
-
-### In-Progress
-
-- **_Efficient Dual Coordinate Descent via Low Rank Approximation_** This project aimed to investigate the potency of reducing communication cost by applying nystrom approximation technique in estimating the low rank gram matrices, the overhead of computation, in dual coordinate descent algorithms
-
-<!--
-- **_Optimizing Graph Neural Networks for Large-Scale Networks_ <span style="color:yellow;">(Idea Formation Stage)</span>**  
-  This project aims to enhance Graph Neural Networks (GNNs) for efficient analysis of large-scale networks, focusing on novel architectures and optimization techniques for improved scalability and accuracy.
--->
-
-<br>
-
-### Finished Projects (More details in Research Section)
-
-
-- **_Communication-Avoiding Coordinate Descent for ElasticNet and Regularization Path LASSO_**  <br><br>
-<!--  This project focuses on enhancing Coordinate Descent algorithms for Elastic-Net and Regularization Path LASSO, aiming to reduce communication overhead in distributed systems without compromising efficiency and effectiveness.
--->
-
-- **Communication-Avoiding Dual Coordinate Descent Methods for Kernelized Machine Learning** <br><br>
-- **PalmHeatNet: A Probabilistic Approach to Understanding Palm Distributions in Ecuadorian Tropical Forest via Transfer Learning.**
+*See full publication list in [Research Section](/research)*
 
 <br><br>
 <br><br>
 
 ---
-## Announcements
+## 📢 Announcements
 ---
 
+
+### May. 2025
+
+One paper accepted as poster in ICML 25'
+
+
+### May. 2025
+
+
+
+### Nov. 2024
+
+I'm thrilled to announce that I'm joining the CEI Lab in Duke Electrical & Computer Engineering Department, working with Dr. Yiran Chen
 
 ### Dec. 2023
 

@@ -1,6 +1,6 @@
 ---
 title: "Hobbys"
-date: 2023-07-07
+date: 2025-08-05
 url: "/hobby/"
 summary: hobby
 
@@ -10,6 +10,22 @@ tags: ["life", "work"]
 draft: false
 ---
 
+<style>
+body, p, li, div {
+    font-size: 18px !important;
+    line-height: 1.6 !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 1.4em !important;
+}
+
+/* Override any existing font sizes */
+* {
+    font-size: inherit;
+}
+</style>
+
 <!-- layout: "genshin" 
     image: "../static/yae.jpg"
     alt: 'genshin'
@@ -17,11 +33,13 @@ draft: false
 
 ---
 
-## WeigthLifting Overview
+#### WeigthLifting Overview
 
-#### *Personal Records (PR)* : 945 lbs / 430 kg
+**Personal Records (PR)** : 945 lbs / 430 kg
 
-Bench Press: 230 lbs / 105kg | 2023.10.14
+Bench Press: 255 lbs / 115kg | 2025.4.09
+
+<span style="color: red;"> **NOTE:** I just hit 265 lbs on 2025.6.12 but there is no video recorded lol.</span>
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <video width="320" height="240" controls>
@@ -51,7 +69,7 @@ Deadlifts: 385 lbs / 175kg <br>
     </div>
 
 
-#### *Non-competition Training*
+**Non-competition Training**
 
 Pull-ups: 45 lbs x 4.5 times
 
@@ -64,7 +82,7 @@ Pull-ups: 45 lbs x 4.5 times
 
 
 
-## Brazillian Jiu-Jitsu (BJJ) Overview
+#### Brazillian Jiu-Jitsu (BJJ) Overview
 
 Currently white-belt, zero stride, in Paulo-Santana BJJ
 

@@ -54,7 +54,7 @@ shaoz20@wfu.edu
 <meta name="twitter:image" content="https://zishan-shao.github.io/images/site-feature-image.png"/>
 
 <meta name="twitter:title" content=""/>
-<meta name="twitter:description" content="Bio I&rsquo;m a skilled Computer Science and Statistics student at Wake Forest University, with a particular focus on High Performance Computing (HPC), Machine Learning, Multivariate Analysis, and other key subjects."/>
+<meta name="twitter:description" content="Bio I&rsquo;m a Master of Science student in Statistical Science at Duke University, with a strong background in Computer Science and Statistics from Wake Forest University."/>
 
 
     
@@ -85,13 +85,19 @@ shaoz20@wfu.edu
             </li>
         
             <li>
+                <a href="https://scholar.google.com/citations?user=EUMawmQAAAAJ&amp;hl=en" rel="me" aria-label="Google Scholar" target="_blank">
+                    <i class="ai ai-google-scholar fa-2x" aria-hidden="true"></i>
+                </a>
+            </li>
+        
+            <li>
                 <a href="https://mail.google.com/" rel="me" aria-label="e-mail" target="_blank">
                     <i class="fas fa-envelope fa-2x" aria-hidden="true"></i>
                 </a>
             </li>
         
             <li>
-                <a href="../Zishan_Shao_CV.pdf" rel="me" aria-label="CV" target="_blank">
+                <a href="../bruce_cv.pdf" rel="me" aria-label="CV" target="_blank">
                     <i class="ai ai-cv fa-2x" aria-hidden="true"></i>
                 </a>
             </li>
@@ -156,7 +162,61 @@ shaoz20@wfu.edu
                 
             </div>
 
-            <!--
+            <style>
+body, p, li, div {
+    font-size: 18px !important;
+    line-height: 1.6 !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 1.4em !important;
+}
+
+.abstract {
+    display: none;
+    background-color: #f8f9fa;
+    padding: 15px;
+    margin: 10px 0;
+    border-left: 4px solid #007bff;
+    border-radius: 5px;
+    font-size: 18px !important;
+}
+
+.abstract-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+.abstract-button:hover {
+    background-color: #0056b3;
+}
+
+/* Override any existing font sizes */
+* {
+    font-size: inherit;
+}
+</style>
+<script>
+function toggleAbstract(projectId) {
+    const abstract = document.getElementById(projectId);
+    const button = document.querySelector(`[onclick="toggleAbstract('${projectId}')"]`);
+    
+    if (abstract.style.display === 'none' || abstract.style.display === '') {
+        abstract.style.display = 'block';
+        button.textContent = 'Hide Abstract';
+    } else {
+        abstract.style.display = 'none';
+        button.textContent = 'Show Abstract';
+    }
+}
+</script>
+<!--
 <figure>
     <img src="../version1_pressed.jpg" alt="Image Description" style="display: block; margin: auto;">
     <figcaption>What's up!</figcaption> 
@@ -164,24 +224,76 @@ shaoz20@wfu.edu
 -->
 <h1 id="heading"></h1>
 <h3 id="bio">Bio</h3>
-<p>I&rsquo;m a skilled Computer Science and Statistics student at Wake Forest University, with a particular focus on High Performance Computing (HPC), Machine Learning, Multivariate Analysis, and other key subjects. As an Undergraduate Research Assistant at Wake Forest IRSC Laboratory, I apply deep learning methodologies and quantitative techniques to intricate computer vision projects, involving semantic segmentation, object classification, and image data processing.</p>
-<p>If you want to cooperate or join my research group, please contact me with my email or my mentors via emails in &ldquo;Research&rdquo;.</p>
-<h1 id="heading-1"></h1>
-<h1 id="heading-2"></h1>
+<p>I&rsquo;m a Master of Science student in Statistical Science at Duke University, with a strong background in Computer Science and Statistics from Wake Forest University. My research focuses on High Performance Computing (HPC), Efficient and Scalable Machine Learning, Numerical Methods, and other key subjects. As a Research Assistant at Duke&rsquo;s CEI Lab, I work on interdisciplinary projects combining statistics, computer science, and applied mathematics.</p>
+<br>
+<h2 id="selected-publications">Selected Publications</h2>
+<h3 id="sada-project">SADA Project</h3>
+<div style="text-align: center;">
+    <img src="../project-img/sada.png" alt="SADA Project" width="700" height="350">
+</div>
+<p><strong>SADA: Stability-guided Adaptive Diffusion Acceleration</strong><br>
+<em>Ting Jiang</em>, Hancheng Ye*, Yixiao Wang*, <strong>Zishan Shao</strong>, Jingwei Sun, Jingyang Zhang, Jianyi Zhang, Zekai Chen, Yiran Chen, Hai Li<br>
+<em>ICML 2025 Poster</em></p>
+<p><button class="abstract-button" onclick="toggleAbstract('sada-abstract')">Show Abstract</button></p>
+<div id="sada-abstract" class="abstract">
+    <strong>Abstract:</strong> Diffusion models have shown remarkable success in generating high-quality samples, but their inference process is often slow due to the need for many denoising steps. We propose SADA (Stability-guided Adaptive Diffusion Acceleration), a novel approach that adaptively reduces the number of denoising steps while maintaining sample quality. Our method uses a stability-guided criterion to determine when to skip steps, achieving significant speedup without compromising generation quality.
+</div>
+<p><a href="https://openreview.net/pdf?id=ThMQfsBnje">Paper</a> | <a href="https://github.com/your-repo/sada">Code</a> | <a href="https://your-slides-link.com">Slides</a></p>
+<h3 id="eccd-project">ECCD Project</h3>
+<div style="text-align: center; display: flex; justify-content: center; gap: 20px;">
+    <img src="../project-img/eccd1.png" alt="ECCD Project 1" width="350" height="300">
+    <img src="../project-img/eccd2.png" alt="ECCD Project 2" width="350" height="300">
+</div>
+<p><strong>Enhanced Cyclic Coordinate Descent for Elastic Net Penalized Linear Models</strong><br>
+<em><strong>Zishan Shao</strong></em>, Yixiao Wang, Ting Jiang, Aditya Devarakonda<br>
+<em>NeurIPS 2025 (Submitted)</em></p>
+<p><button class="abstract-button" onclick="toggleAbstract('eccd-abstract')">Show Abstract</button></p>
+<div id="eccd-abstract" class="abstract">
+    <strong>Abstract:</strong> Coordinate descent methods are widely used for solving large-scale optimization problems, particularly in machine learning applications. We propose Enhanced Cyclic Coordinate Descent (ECCD), an improved variant that addresses the limitations of traditional cyclic coordinate descent for Elastic Net penalized linear models. Our method introduces adaptive step sizes and efficient communication-avoiding strategies, achieving faster convergence and better scalability for high-dimensional problems.
+</div>
+<p><a href="https://arxiv.org/abs/2406.18001">Paper</a> | <a href="https://github.com/your-repo/eccd">Code</a> | <a href="https://your-slides-link.com">Slides</a></p>
+<h3 id="flashsvd-project">FlashSVD Project</h3>
+<div style="text-align: center;">
+    <img src="../project-img/pipeline.png" alt="ECCD Project" width="700" height="350">
+</div>
+<p><strong>FlashSVD: Memory Efficient Approach for SVD-Based Low Rank Model Inference</strong><br>
+<em><strong>Zishan Shao</strong></em>, Yixiao Wang, Qinsi Wang, Ting Jiang, Zhixu Du, Hancheng Ye, Danyang Zhuo, Yiran Chen, Hai Li<br>
+<em>AAAI 2026 (Submitted)</em></p>
+<p><button class="abstract-button" onclick="toggleAbstract('flashsvd-abstract')">Show Abstract</button></p>
+<div id="flashsvd-abstract" class="abstract">
+    <strong>Abstract:</strong> Singular Value Decomposition (SVD) is a fundamental technique in machine learning and data analysis, but its memory requirements can be prohibitive for large-scale applications. We present FlashSVD, a memory-efficient approach for SVD-based low-rank model inference that significantly reduces memory footprint while maintaining accuracy. Our method employs innovative caching strategies and adaptive memory management, enabling efficient processing of large matrices on memory-constrained systems.
+</div>
+<p><a href="https://arxiv.org/abs/2508.01506">Paper</a> | <a href="https://github.com/your-repo/flashsvd">Code</a> | <a href="https://your-slides-link.com">Slides</a></p>
+<br>
 <h3 id="education">Education</h3>
 <ul>
 <li>
+<p><strong>Duke University</strong>, Durham, NC</p>
+<ul>
+<li>Master of Science in Statistical Science, Expected 2025</li>
+<li>Advisor: Dr. Yiran Chen</li>
+<li>Research Lab: CEI Lab (Computational Engineering and Intelligence)</li>
+<li>Relevant Coursework: Real Analysis, Advanced Numerical Linear Algebra, Numerical Methods, Bayesian Statistics, Advanced Statistical Inference, Predictive Modeling &amp; Statistical Learning, Electrical Computing in Neural Networks, Advanced Stochastic Process, Advanced Hierarchical Modeling.</li>
+</ul>
+</li>
+<li>
 <p><strong>Wake Forest University</strong>, Winston-Salem, NC</p>
 <ul>
-<li>Bachelor of Science in Computer Science, Expected May 2024</li>
-<li>Second Major in Statistics</li>
-<li>Dean’s List: Fall 2020, Spring 2021, Fall 2021, Spring 2022, Fall 2022</li>
-<li>Relevant Coursework: Python, C, R, Java, Data Structures and Algorithms, Machine Learning, Statistical Learning, Multivariate Analysis, Probability, Linear Models, Assembly Languages, Multivariate Calculus, Linear Algebra, Discrete Mathematics, Special Topics – Computer Vision, High-Performance Computing, Parallel Computing, Numerical Optimization</li>
+<li>Bachelor of Science in Computer Science, May 2024</li>
+<li>Second Major (B.S.) in Statistics</li>
+<li>Dean&rsquo;s List: All semesters, Summa Cum Laude</li>
+<li>Dissertation: &ldquo;Communication Avoiding Coordinate Descent Methods On Kernel And Regularized Linear Models&rdquo; <a href="../WFU_CS_Thesis.pdf">PDF</a></li>
+<li>Advisor: Dr. Aditya Devarakonda</li>
+<li>Relevant Coursework: Python, C, R, Java, Statistical &amp; Machine Learning, Statistical Inferences, Linear Models, Multivariate Analysis, Probability, Network Theory &amp; Analysis, Advanced Data Structures and Algorithms,  Assembly Languages, Computer System, Multivariate Calculus, Linear Algebra, Discrete Mathematics, Time Series Forecasting, Special Topics – Computer Vision, High-Performance Computing, Parallel Computing</li>
 </ul>
 </li>
 <li>
 <p><strong>Shanghai Weiyu High School</strong>, Shanghai, China</p>
 </li>
+</ul>
+<h3 id="academic-profiles">Academic Profiles</h3>
+<ul>
+<li><strong><a href="https://scholar.google.com/citations?user=EUMawmQAAAAJ&amp;hl=en">Google Scholar</a></strong> - View my publications and citations</li>
 </ul>
 <!-- Rest of the content follows -->
 </div>
@@ -196,7 +308,7 @@ shaoz20@wfu.edu
     </div>
 
 
-            <div>Last Modified: Monday, July 17, 2023.<br><br><br></div>
+            <div>Last Modified: Tuesday, August 5, 2025.<br><br><br></div>
         </div>
     </div>
 </div>

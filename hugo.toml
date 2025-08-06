@@ -21,8 +21,8 @@ pygmentsCodefencesGuessSyntax = true
 [params]
 title = "Zishan Shao"
 author = "Zishan Shao"
-copyright = "2023"
-description = "Undergraduate Researcher at Wake Forest University\nshaoz20@wfu.edu\n "
+copyright = "2025"
+description = "Graduate Researcher at Duke University\nzishan.shao@duke.edu\n "
 profilePicture = "../me.jpeg" # "../raiden.png"
 keywords = ""
 favicon = "favicons/"
@@ -62,10 +62,10 @@ title = "GitHub"
 url = "https://github.com/Zishan-Shao"
 
 
-#[[params.socialIcons]]
-#icon = "ai ai-google-scholar"
-#title = "GoogleScholar"
-#url = "https://scholar.google.com/citations?user=Ao-FJHwAAAAJ&hl=en"
+[[params.socialIcons]]
+icon = "ai ai-google-scholar"
+title = "Google Scholar"
+url = "https://scholar.google.com/citations?user=EUMawmQAAAAJ&hl=en"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
