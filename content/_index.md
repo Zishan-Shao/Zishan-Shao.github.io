@@ -61,8 +61,8 @@ I am actively seeking research collaborations and opportunities in the following
 
 ## 📄 Recent Publications
 
-**6 Publications** including:
-- **4 papers in submission** to top-tier conferences (AAAI, NeurIPS)
+**4 Publications** including:
+- **2 papers in submission** to top-tier conferences (AAAI, NeurIPS)
 - **2 published/accepted papers** including ICML '25 and HPCAsia '25 (<span style="color: red;">🏆 Outstanding Paper Award</span>)
 - **First author** on 4 papers, contributing author on 2 papers
 
