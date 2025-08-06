@@ -71,10 +71,10 @@ My current research at Duke University focuses on:
 1. **FlashSVD++: Causality Enabled Inference & Memory Efficient Training System**  
    *Zishan Shao*, Hancheng Ye, Yixiao Wang, Ting Jiang, Qinsi Wang, Yiran Chen  
    In submission to **Machine Learning and Systems (MLSys '26)** -->
-
+<!-- 
 - **On Training-Free Acceleration of Generative Modeling**  
    Ting Jiang*, Yixiao Wang*, **Zishan Shao\***, Hancheng Ye, Mingyuan Ma, Yiran Chen  
-   In submission to *International Conference on Learning Representations* **(ICLR '26)**
+   In submission to *International Conference on Learning Representations* **(ICLR '26)** -->
 
 - **FlashSVD: Memory Efficient Approach for SVD-Based Low Rank Model Inference**  
    **Zishan Shao**, Yixiao Wang, Qinsi Wang, Ting Jiang, Zhixu Du, Hancheng Ye, Danyang Zhuo, Yiran Chen, Hai Li  
