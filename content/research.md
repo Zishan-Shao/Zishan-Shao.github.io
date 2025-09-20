@@ -81,15 +81,15 @@ My current research at Duke University focuses on:
    In submission to *Annual AAAI Conference on Artificial Intelligence* **(AAAI '26)**  
    [PDF](https://arxiv.org/abs/2508.01506)
 
-- **Enhanced Cyclic Coordinate Descent Methods for Elastic Net Penalized Linear Models**  
-   **Zishan Shao\***, Yixiao Wang*, Ting Jiang, Aditya Devarakonda  
-   In submission to *Neural Information Processing Systems* **(NeurIPS '25)**
-
-
 
 **Published & Accepted**
 
 **📚 Academic Profiles:** [Google Scholar](https://scholar.google.com/citations?user=EUMawmQAAAAJ&hl=en)
+
+
+- **Enhanced Cyclic Coordinate Descent Methods for Elastic Net Penalized Linear Models**  
+   **Zishan Shao\***, Yixiao Wang*, Ting Jiang, Aditya Devarakonda  
+   *Neural Information Processing Systems* **(NeurIPS '25 Poster)**
 
 - **SADA: Stability-guided Adaptive Diffusion Acceleration**
    Ting Jiang*, Hancheng Ye*, Yixiao Wang*, **Zishan Shao**, Jingwei Sun, Jingyang Zhang, Jianyi Zhang, Zekai Chen, Yiran Chen, Hai Li  

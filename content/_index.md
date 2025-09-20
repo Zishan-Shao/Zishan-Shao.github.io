@@ -62,9 +62,9 @@ I am actively seeking research collaborations and opportunities in the following
 ## 📄 Recent Publications
 
 **4 Publications** including:
-- **2 papers in submission** to top-tier conferences (AAAI, NeurIPS)
-- **2 published/accepted papers** including ICML '25 and HPCAsia '25 (<span style="color: red;">🏆 Outstanding Paper Award</span>)
-- **First author** on 4 papers, contributing author on 2 papers
+- **3 papers in submission** to top-tier conferences (AAAI, ICLR, ICASSP)
+- **3 published/accepted papers** including ICML '25, NeurIPS 25', and HPCAsia '25 (<span style="color: red;">🏆 Outstanding Paper Award</span>)
+- **(co-)/First author** on 5 papers, contributing author on 2 papers
 
 *See full publication list in [Research Section](/research)*
 
@@ -74,6 +74,15 @@ I am actively seeking research collaborations and opportunities in the following
 ---
 ## 📢 Announcements
 ---
+
+
+
+### Sept. 2025
+
+My co-first authored work "ECCD: Enhanced Cyclic Coordinate Descent Methods for Elastic Net Penalized Linear Models" has been accepted at NeurIPS 25'!!! Big thanks to my dear collaborators Yixiao Wang and Justin Ting Jiang and my mentor Aditya Devarakonda in Wake Forest University.
+
+Two co-first authored paper in submission to ICASSP 26' and ICLR 26'
+
 
 
 ### May. 2025

@@ -89,7 +89,7 @@ I'm a Master of Science student in Statistical Science at Duke University, with 
 </div>
 
 **SADA: Stability-guided Adaptive Diffusion Acceleration**  
-*Ting Jiang*, Hancheng Ye*, Yixiao Wang*, **Zishan Shao**, Jingwei Sun, Jingyang Zhang, Jianyi Zhang, Zekai Chen, Yiran Chen, Hai Li  
+Ting Jiang*, Hancheng Ye*, Yixiao Wang*, **Zishan Shao**, Jingwei Sun, Jingyang Zhang, Jianyi Zhang, Zekai Chen, Yiran Chen, Hai Li  
 *ICML 2025 Poster*
 
 <button class="abstract-button" onclick="toggleAbstract('sada-abstract')">Show Abstract</button>
@@ -106,8 +106,8 @@ I'm a Master of Science student in Statistical Science at Duke University, with 
 </div>
 
 **Enhanced Cyclic Coordinate Descent for Elastic Net Penalized Linear Models**  
-***Zishan Shao***, Yixiao Wang, Ting Jiang, Aditya Devarakonda  
-*NeurIPS 2025 (Submitted)*
+***Zishan Shao* ***, Yixiao Wang*, Ting Jiang, Aditya Devarakonda  
+*NeurIPS 2025 (Poster)*
 
 <button class="abstract-button" onclick="toggleAbstract('eccd-abstract')">Show Abstract</button>
 <div id="eccd-abstract" class="abstract">
