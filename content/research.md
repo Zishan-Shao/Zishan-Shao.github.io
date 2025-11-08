@@ -117,10 +117,6 @@ My current research at Duke University focuses on:
    In submission to *IEEE International Conference on Acoustics, Speech, and Signal Processing* **(ICASSP '26)**
 
 
-- **A2CT: Adaptive Anchored Consistency Tuning for Domain Adaptation of Timestep-Distilled Generative Models**
-   Ting Jiang* , **Zishan Shao\***, Kangning Cui, Yueqian Lin, Yiran Chen, Julian McAuley, Taylor Berg-Kirkpatrick, Zachary Novack 
-   In submission to *IEEE International Conference on Acoustics, Speech, and Signal Processing* **(ICASSP '26)**
-
 - **On Training-Free Acceleration of Generative Modeling**  
    Yixiao Wang*, Ting Jiang*, **Zishan Shao\***, Hancheng Ye, Mingyuan Ma, Yiran Chen  
    In submission to *International Conference on Learning Representations* **(ICLR '26)**
