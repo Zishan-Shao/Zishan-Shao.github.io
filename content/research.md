@@ -66,25 +66,16 @@ My current research at Duke University focuses on:
 
 ## Publications
 
-**In-Submission**
-<!-- 
-1. **FlashSVD++: Causality Enabled Inference & Memory Efficient Training System**  
-   *Zishan Shao*, Hancheng Ye, Yixiao Wang, Ting Jiang, Qinsi Wang, Yiran Chen  
-   In submission to **Machine Learning and Systems (MLSys '26)** -->
-<!-- 
-- **On Training-Free Acceleration of Generative Modeling**  
-   Ting Jiang*, Yixiao Wang*, **Zishan Shao\***, Hancheng Ye, Mingyuan Ma, Yiran Chen  
-   In submission to *International Conference on Learning Representations* **(ICLR '26)** -->
-
-- **FlashSVD: Memory Efficient Approach for SVD-Based Low Rank Model Inference**  
-   **Zishan Shao**, Yixiao Wang, Qinsi Wang, Ting Jiang, Zhixu Du, Hancheng Ye, Danyang Zhuo, Yiran Chen, Hai Li  
-   In submission to *Annual AAAI Conference on Artificial Intelligence* **(AAAI '26)**  
-   [PDF](https://arxiv.org/abs/2508.01506)
-
-
 **Published & Accepted**
 
 **📚 Academic Profiles:** [Google Scholar](https://scholar.google.com/citations?user=EUMawmQAAAAJ&hl=en)
+
+
+
+- **FlashSVD: Memory Efficient Approach for SVD-Based Low Rank Model Inference**  
+   **Zishan Shao**, Yixiao Wang, Qinsi Wang, Ting Jiang, Zhixu Du, Hancheng Ye, Danyang Zhuo, Yiran Chen, Hai Li  
+   *Annual AAAI Conference on Artificial Intelligence* **(AAAI '26 Poster)**  
+   [PDF](https://arxiv.org/abs/2508.01506)
 
 
 - **Enhanced Cyclic Coordinate Descent Methods for Elastic Net Penalized Linear Models**  
@@ -106,6 +97,33 @@ My current research at Duke University focuses on:
    Kangning Cui, **Zishan Shao**, Gregory Larsen, Victor Pauca, Sarra Alqahtani, David Segurado, Joao Pinheiro, Manqi Wang, David Lutz, Robert Plemmons, Miles Silman  
    *Proceedings of 2024 ACM-Southeast (ACM-SE '24)* 
    [PDF](https://arxiv.org/abs/2403.03161)
+
+<br>
+
+
+**In-Submission**
+<!-- 
+1. **FlashSVD++: Causality Enabled Inference & Memory Efficient Training System**  
+   *Zishan Shao*, Hancheng Ye, Yixiao Wang, Ting Jiang, Qinsi Wang, Yiran Chen  
+   In submission to **Machine Learning and Systems (MLSys '26)** -->
+
+
+- **Seeing is Solving: Unlocking Efficient Vision-Language Models RLFT via Adaptive Curriculum and Continuous Rewards** 
+   Qinsi Wang, Jing Shi, Kun Wan, Handong Zhao, Hancheng Ye, **Zishan Shao**, Jinghan Ke, Yudong Liu, Daniel Miranda, Purvak Lapsiya, Yiran Chen, Wentian Zhao
+   In submission to *Conference on Computer Vision and Pattern Recognition 2026* **(CVPR '26)**
+
+- **A2CT: Adaptive Anchored Consistency Tuning for Domain Adaptation of Timestep-Distilled Generative Models**
+   Ting Jiang* , **Zishan Shao\***, Kangning Cui, Yueqian Lin, Yiran Chen, Julian McAuley, Taylor Berg-Kirkpatrick, Zachary Novack 
+   In submission to *IEEE International Conference on Acoustics, Speech, and Signal Processing* **(ICASSP '26)**
+
+
+- **A2CT: Adaptive Anchored Consistency Tuning for Domain Adaptation of Timestep-Distilled Generative Models**
+   Ting Jiang* , **Zishan Shao\***, Kangning Cui, Yueqian Lin, Yiran Chen, Julian McAuley, Taylor Berg-Kirkpatrick, Zachary Novack 
+   In submission to *IEEE International Conference on Acoustics, Speech, and Signal Processing* **(ICASSP '26)**
+
+- **On Training-Free Acceleration of Generative Modeling**  
+   Yixiao Wang*, Ting Jiang*, **Zishan Shao\***, Hancheng Ye, Mingyuan Ma, Yiran Chen  
+   In submission to *International Conference on Learning Representations* **(ICLR '26)**
 
 <br>
 
