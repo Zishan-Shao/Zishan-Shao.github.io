@@ -1,5 +1,5 @@
 ---
-title: "Annoucements"
+title: "Announcements"
 date: 2025-08-05
 layout: "home"
 summary: home
@@ -30,41 +30,43 @@ I'm currently seeking opportunities to be a MS/Ph.D. student at universities foc
 
 
 I'm currently seeking research opportunities across broad topics of statistics. I have previous experiences in interdisciplinary areas of statistics/computer science/ and applied mathematics. I have particular interests in statistical & machine learning theory, computing, and efficient algorithms. Thrill to collaborate with people from different academic, demographic, ethnical backgrounds.
+
+Incoming Ph.D. student in Duke Electrical & Computer Engineering Department. 
 ---
 -->
 
 ---
-## 🎯 Actively Seeking Ph.D Opportunities
+## 🎯 Actively Seeking Research Opportunities & Interns
 
-I am actively exploring research opportunities spanning a wide range of topics with interdisciplinary of Computer Science and Statistics. My background encompasses interdisciplinary work across statistics, computer science, and applied mathematics. I hold a deep interest in the realms of **Efficient and Scalable Algorithms for Machine Learning and Deep Learning**. I also have expertise in **Machine Learning System and High Performance Computing**. 
+I am actively exploring research opportunities in model efficiency. My focus is on **efficient systems and algorithms for large-scale models**, with additional expertise in **statistical learning** and **high-performance computing**.
 
-**Currently pursuing Master of Science in Statistical Science at Duke University**, working with Dr. Yiran Chen in the CEI Lab.
+**Currently pursuing an M.S. in Statistical Science at Duke University**, working with Dr. Yiran Chen in the CEI Lab on MLSys and diffusion acceleration.
 
 ---
 
 
 ## 🤝 Actively Seeking Collaborations
 
-I am actively seeking research collaborations and opportunities in the following areas:
-- **Machine Learning Systems and High-Performance Computing**
-- **Efficient and Scalable Algorithms for Deep Learning**
-- **Interdisciplinary research combining Statistics, Computer Science, and Applied Mathematics**
+I’m seeking collaborations and opportunities in the following areas:
+- **Machine learning systems and high-performance computing**
+- **Efficient and scalable algorithms for deep learning**
+- **Interdisciplinary research across statistics, computer science, and applied mathematics**
 
-<span style="color: red;"> 🎯 Always exciting to find peers in Duke for exciting topics in memory-efficient systems! Feel free to reach out if you're interested in collaborating on related projects. 🚀</span>
+<span style="color: red;">🎯 Looking for Duke collaborators on memory‑efficient systems. Reach out if you’re interested in related projects. 🚀</span>
 
 
 ---
 
-### **🔬 Research Interests:** Algorithm Efficiency, MLSys, High-Performance Computing, Scientific Computing
+### **🔬 Research Interests:** Algorithmic efficiency, MLSys, high-performance computing, scientific computing
 <br><br>
 
 
 ## 📄 Recent Publications
 
-**7 Publications** including:
+**7 publications**, including:
 - **3 papers in submission** to top-tier conferences (ICLR, ICASSP, CVPR)
-- **4 published/accepted papers** including AAAI '26, ICML '25, NeurIPS 25', and HPCAsia '25 (<span style="color: red;">🏆 Outstanding Paper Award</span>)
-- **(co-)/First author** on 5 papers, contributing author on 3 papers
+- **4 published/accepted papers** including AAAI ’26, ICML ’25, NeurIPS ’25, and HPCAsia ’25 (<span style="color: red;">🏆 Outstanding Paper Award</span>)
+- **(Co-)first author** on 5 papers; contributing author on 3 papers
 
 *See full publication list in [Research Section](/research)*
 
@@ -78,7 +80,7 @@ I am actively seeking research collaborations and opportunities in the following
 
 ### Nov. 2025
 
-My first authored work "FlashSVD: Memory-Efficient Inference with Streaming for Low-Rank Models" has been accepted at AAAI 26'!!! This is the first paper that is end-to-end done by myself, 23rd May - 16th July.
+My first authored work "FlashSVD: Memory-Efficient Inference with Streaming for Low-Rank Models" has been accepted at AAAI 26'!!! This is the first paper that is end-to-end (from idea formulation to paper acceptance) done by myself, 23rd May - 16th July.
 
 
 ### Sept. 2025
