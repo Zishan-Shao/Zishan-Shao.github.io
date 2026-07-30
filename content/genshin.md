@@ -11,18 +11,21 @@ draft: false
 ---
 
 <style>
-body, p, li, div {
+.post .post-content,
+.post p,
+.post li,
+.post div {
     font-size: 18px !important;
     line-height: 1.6 !important;
 }
 
-h1, h2, h3, h4, h5, h6 {
+.post h1,
+.post h2,
+.post h3,
+.post h4,
+.post h5,
+.post h6 {
     font-size: 1.4em !important;
-}
-
-/* Override any existing font sizes */
-* {
-    font-size: inherit;
 }
 </style>
 

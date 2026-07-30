@@ -22,12 +22,12 @@ pygmentsCodefencesGuessSyntax = true
 title = "Zishan Shao"
 author = "Zishan Shao"
 copyright = "2025"
-description = "Graduate Researcher at Duke University\nzishan.shao@duke.edu\n "
+description = "Ph.D Student at Duke University\nzishan.shao@duke.edu\n "
 profilePicture = "../me.jpeg" # "../raiden.png"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
-customCss = []
+customCss = ["css/custom.css"]
 # example ["js/custom.js"]
 customJs = [] 
 mainSections = ["post"]
@@ -107,11 +107,17 @@ unsafe= true
   #identifier = "Teaching"
   #url = "/teaching/"
 
+  # [[menu.main]]
+  # name = "Research"
+  # weight = 300
+  # identifier = "research"
+  # url = "/research/"
+
   [[menu.main]]
-  name = "Research"
-  weight = 300
-  identifier = "research"
-  url = "/research/"
+  name = "Mentorship"
+  weight = 350
+  identifier = "mentoring"
+  url = "/mentoring/"
 
   [[menu.main]]
   name = "Hobbys"
@@ -124,6 +130,3 @@ unsafe= true
   #weight = 500
   #identifier = "publications"
   #url = "/publications/"
-
-
-

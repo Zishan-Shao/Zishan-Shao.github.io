@@ -1,0 +1,50 @@
+/* Keep the identity block identical across pages, even when page-local CSS changes fonts. */
+.sidebar .logo-title {
+  flex: 0 0 auto !important;
+  text-align: center;
+}
+
+.sidebar .logo-title .title img {
+  border-radius: 60%;
+}
+
+.sidebar .logo-title .title h3 {
+  font-size: 25.2px !important;
+  line-height: 1 !important;
+}
+
+.sidebar .logo-title .description p {
+  font-size: 18px !important;
+  line-height: 1.6 !important;
+}
+
+.sidebar .social-links {
+  flex: 0 0 auto !important;
+  margin: 1.25rem 0 0;
+  font-size: 18px !important;
+  line-height: 1.6 !important;
+}
+
+@media screen and (min-width: 961px) {
+  .sidebar .logo-title {
+    padding-top: 180px;
+  }
+
+  .sidebar .logo-title .title img {
+    width: 350px;
+  }
+
+  .sidebar .footer {
+    margin-top: auto;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .sidebar .logo-title {
+    padding-top: 120px;
+  }
+
+  .sidebar .logo-title .title img {
+    width: 100px;
+  }
+}
