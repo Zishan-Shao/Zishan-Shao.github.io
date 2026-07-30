@@ -300,8 +300,8 @@ draft: false
 
 <section class="about-hero">
   <div>
-    <h1>Designing systems that make large models practical.</h1>
-    <p class="about-hero-copy">My work connects model behavior, numerical methods, and systems design to make modern generative models faster, more memory-efficient, and easier to use at scale.</p>
+    <h1>Scaling generative intelligence with no compromise.</h1>
+    <p class="about-hero-copy">My research spans multimodal generative models, low-rank methods, and AI algorithm–system co-design. I build efficient and interpretable techniques that make advanced models faster, leaner, and more deployable.</p>
   </div>
   <aside class="about-research-map" aria-label="Research map">
     <p class="research-map-title">Research map</p>
@@ -311,7 +311,7 @@ draft: false
     </div>
     <div class="research-map-item">
       <span class="research-map-number">02</span>
-      <p>Low Rank Method</p>
+      <p>Low Rank Methods</p>
     </div>
     <div class="research-map-item">
       <span class="research-map-number">03</span>

@@ -355,7 +355,7 @@ draft: false
   <div>
     <p class="home-eyebrow">Duke ECE · CEI</p>
     <h1>Hi, I’m Zishan Shao.</h1>
-    <p class="home-hero-copy">I am a <strong>Ph.D. student in Electrical and Computer Engineering at Duke University</strong>, advised by <strong>Prof. Yiran Chen</strong>. I build efficient and interpretable methods for LLMs, MLLMs, diffusion models, and world models.</p>
+    <p class="home-hero-copy">I am a <strong>Ph.D. student in Electrical and Computer Engineering at Duke University</strong>, advised by <strong>Prof. Yiran Chen</strong>. I develop efficient and interpretable techniques for multimodal generative models, low-rank methods, and AI algorithm–system co-design.</p>
     <div class="home-focuses" aria-label="Research areas">
       <span>MLSys</span>
       <span>Efficient AI</span>
@@ -384,7 +384,7 @@ draft: false
   <a class="featured-project" href="https://github.com/Zishan-Shao/FlashSVD" target="_blank" rel="noopener">
     <span class="home-status">AAAI 2026 · Poster</span>
     <h3>FlashSVD</h3>
-    <p>Accelerates large-model SVD with GPU-efficient randomized methods and adaptive rank selection for practical low-rank inference.</p>
+    <p>Pairs a rank-aware CUDA/Triton kernel suite with a unified runtime for memory-efficient low-rank Transformer inference.</p>
   </a>
   <a class="featured-project" href="https://arxiv.org/abs/2604.01552" target="_blank" rel="noopener">
     <span class="home-status">ACM MM 2026 · Poster</span>
