@@ -48,3 +48,253 @@
     width: 100px;
   }
 }
+
+/* Dark-mode palette for the custom Home, About, and Mentorship layouts. */
+html[data-theme='dark'] .home-section > h2,
+html[data-theme='dark'] .post .post-content > h2 {
+  color: #e2ecff;
+}
+
+html[data-theme='dark'] .home-hero,
+html[data-theme='dark'] .about-hero {
+  background:
+    radial-gradient(circle at 89% 17%, rgba(100, 211, 255, 0.3), transparent 20%),
+    radial-gradient(circle at 72% 105%, rgba(152, 100, 255, 0.38), transparent 36%),
+    linear-gradient(128deg, #06142f 0%, #102e64 48%, #302063 100%);
+  box-shadow: 0 18px 38px rgba(0, 0, 0, 0.34);
+}
+
+html[data-theme='dark'] .featured-project {
+  color: #dceaff;
+  border-color: rgba(152, 187, 255, 0.17);
+  background: linear-gradient(145deg, #15243a, #101b2f);
+}
+
+html[data-theme='dark'] .featured-project:nth-child(2) {
+  background: linear-gradient(145deg, #211c3b, #17152d);
+}
+
+html[data-theme='dark'] .featured-project:nth-child(3) {
+  background: linear-gradient(145deg, #362716, #251a12);
+}
+
+html[data-theme='dark'] .featured-project:hover {
+  color: #fff;
+  border-color: rgba(127, 186, 255, 0.46);
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.32);
+}
+
+html[data-theme='dark'] .featured-project h3,
+html[data-theme='dark'] .home-highlight h3 {
+  color: #f0f6ff;
+}
+
+html[data-theme='dark'] .home-status {
+  color: #8ae4ff;
+  background: #123d52;
+}
+
+html[data-theme='dark'] .featured-project:nth-child(2) .home-status {
+  color: #d0c1ff;
+  background: #372b66;
+}
+
+html[data-theme='dark'] .featured-project:nth-child(3) .home-status {
+  color: #ffcf96;
+  background: #603516;
+}
+
+html[data-theme='dark'] .home-highlight {
+  border-color: rgba(152, 187, 255, 0.16);
+  background: linear-gradient(135deg, #16233a, #111b2f);
+}
+
+html[data-theme='dark'] .home-highlight p,
+html[data-theme='dark'] .slider-hint {
+  color: #b5c5de;
+}
+
+html[data-theme='dark'] .home-news li {
+  border-color: rgba(152, 187, 255, 0.14);
+  background: linear-gradient(90deg, #13223a, rgba(19, 34, 58, 0));
+}
+
+html[data-theme='dark'] .home-news time,
+html[data-theme='dark'] .news-slide time {
+  color: #8cb5e8;
+}
+
+html[data-theme='dark'] .archive-link {
+  color: #b9d4ff !important;
+  background: #1a3560;
+}
+
+html[data-theme='dark'] .archive-link:hover {
+  background: #24477d;
+}
+
+html[data-theme='dark'] .news-slide {
+  border-color: rgba(152, 187, 255, 0.16);
+  background: linear-gradient(145deg, #15283b, #112034);
+  box-shadow: 0 7px 16px rgba(0, 0, 0, 0.2);
+}
+
+html[data-theme='dark'] .news-slide:nth-child(2) {
+  background: linear-gradient(145deg, #241e40, #191632);
+}
+
+html[data-theme='dark'] .news-slide:nth-child(3) {
+  background: linear-gradient(145deg, #382916, #281d11);
+}
+
+html[data-theme='dark'] .news-slide:nth-child(4) {
+  background: linear-gradient(145deg, #3b1f32, #281524);
+}
+
+html[data-theme='dark'] .about-summary,
+html[data-theme='dark'] .mentoring-intro {
+  border-color: #294a65;
+  border-left-color: #3fc2bf;
+  background: linear-gradient(135deg, #112a36, #18243d);
+}
+
+html[data-theme='dark'] .research-summary {
+  border-left-color: #a28cff;
+}
+
+html[data-theme='dark'] .post .post-content > h3,
+html[data-theme='dark'] .project-card__header h3 {
+  color: #edf4ff;
+}
+
+html[data-theme='dark'] .project-card {
+  border-color: rgba(152, 187, 255, 0.16);
+  background: #101a2c;
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.22);
+}
+
+html[data-theme='dark'] .project-card:hover {
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.34);
+}
+
+html[data-theme='dark'] .project-card__header {
+  border-color: rgba(152, 187, 255, 0.13);
+  background: linear-gradient(135deg, #142940, #112137);
+}
+
+html[data-theme='dark'] .project-card--violet .project-card__header {
+  background: linear-gradient(135deg, #261e43, #1b1732);
+}
+
+html[data-theme='dark'] .project-card--orange .project-card__header {
+  background: linear-gradient(135deg, #3b2b16, #2b1e11);
+}
+
+html[data-theme='dark'] .project-card--teal .project-card__header {
+  background: linear-gradient(135deg, #102f31, #102727);
+}
+
+html[data-theme='dark'] .project-card--rose .project-card__header {
+  background: linear-gradient(135deg, #381d30, #281727);
+}
+
+html[data-theme='dark'] .project-status {
+  color: #93dcff;
+  background: #173b54;
+}
+
+html[data-theme='dark'] .project-card--violet .project-status {
+  color: #d1c3ff;
+  background: #382b67;
+}
+
+html[data-theme='dark'] .project-card--orange .project-status {
+  color: #ffd09c;
+  background: #643817;
+}
+
+html[data-theme='dark'] .project-card--teal .project-status {
+  color: #8ae6d2;
+  background: #124b48;
+}
+
+html[data-theme='dark'] .project-card--rose .project-status {
+  color: #ffc3d0;
+  background: #643045;
+}
+
+html[data-theme='dark'] .project-figure-caption {
+  color: #aebed3;
+}
+
+html[data-theme='dark'] .project-links a {
+  color: #b9d7ff !important;
+  border-color: #547bb8;
+  background: #132948;
+}
+
+html[data-theme='dark'] .project-links a:hover {
+  color: #fff !important;
+  background: #426aa9;
+}
+
+html[data-theme='dark'] .mentoring-hero {
+  background:
+    radial-gradient(circle at 85% 12%, rgba(98, 236, 199, 0.25), transparent 22%),
+    radial-gradient(circle at 75% 108%, rgba(116, 96, 223, 0.42), transparent 38%),
+    linear-gradient(128deg, #052333 0%, #0b4857 50%, #29235f 100%);
+  box-shadow: 0 18px 38px rgba(0, 0, 0, 0.34);
+}
+
+html[data-theme='dark'] .prospective-note {
+  border-color: #3b4179;
+  border-left-color: #9c8dff;
+  background: linear-gradient(135deg, #1b2140, #171c32);
+}
+
+html[data-theme='dark'] .prospective-note a {
+  color: #c9c2ff !important;
+}
+
+html[data-theme='dark'] .mentee-list {
+  border-color: rgba(122, 200, 206, 0.2);
+  background: #101f2b;
+}
+
+html[data-theme='dark'] .mentee-row {
+  border-color: rgba(122, 200, 206, 0.14);
+}
+
+html[data-theme='dark'] .mentee-row h3 {
+  color: #eaf7ff;
+}
+
+html[data-theme='dark'] .mentee-affiliation {
+  color: #b1c9df;
+}
+
+html[data-theme='dark'] .mentee-project {
+  color: #b8dce1;
+}
+
+html[data-theme='dark'] .alumni-card {
+  border-color: #573e5e;
+  background: linear-gradient(135deg, #2c1d35, #201a31);
+}
+
+html[data-theme='dark'] .alumni-card h3 {
+  color: #f0dcff;
+}
+
+html[data-theme='dark'] .alumni-label {
+  color: #f5a7c4;
+}
+
+html[data-theme='dark'] .timeline-item {
+  border-left-color: #7398d7;
+  background: #132139;
+}
+
+html[data-theme='dark'] .timeline-item h3 {
+  color: #dceaff;
+}
