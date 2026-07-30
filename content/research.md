@@ -225,7 +225,7 @@ I am a Ph.D. student in Electrical and Computer Engineering at Duke University, 
 ### Duke University, Center for Computational Evolutionary Intelligence (CEI) · Durham, NC
 
 **Ph.D. Student and Researcher · Fall 2024 – Present**  
-Advised by Prof. Yiran Chen. I develop efficient systems and algorithms for large language models and generative models, with an emphasis on model serving, low-rank inference, and training-free acceleration.
+Advised by Prof. Yiran Chen. My research spans multimodal generative models, low-rank methods, and AI algorithm–system co-design, with a focus on efficient and interpretable techniques for large-scale deployment.
 
 ### REASON Lab, Wake Forest University · Winston-Salem, NC
 
