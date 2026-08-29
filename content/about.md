@@ -372,7 +372,7 @@ I develop efficient systems and algorithms for large models, spanning low-rank L
 
 <div class="project-card project-card--orange">
   <div class="project-card__header">
-    <span class="project-status">ACM MM 2026 Poster</span>
+    <span class="project-status">ACM MM 2026 Oral</span>
     <h3>ZEUS: Accelerating Diffusion Models with Only Second-Order Predictor</h3>
     <em>Duke CEI · Diffusion and generative systems</em>
   </div>

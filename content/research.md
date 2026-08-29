@@ -154,7 +154,7 @@ I am a Ph.D. student in Electrical and Computer Engineering at Duke University, 
 
 <div class="project-card">
   <div class="project-card__header">
-    <span class="project-status">ACM MM 2026 Poster</span>
+    <span class="project-status">ACM MM 2026 Oral</span>
     <h3>ZEUS: Accelerating Diffusion Models with Only Second-Order Predictor</h3>
     <em>Duke CEI · Diffusion and generative systems</em>
   </div>

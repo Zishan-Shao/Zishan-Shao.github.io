@@ -7,7 +7,7 @@ draft: false
 ## 2026
 
 - **Jun. 2026** — [DecodeShare](https://zishan-shao.github.io/decodeshare/) was selected as an **ICML 2026 Spotlight**.
-- **2026** — **ZEUS** was accepted to **ACM Multimedia 2026**; I am a co-first author.
+- **2026** — **ZEUS** was selected for an **ACM Multimedia 2026 Oral presentation**; I am a co-first author.
 - **2026** — [FlashSVD](https://github.com/Zishan-Shao/FlashSVD) was presented as an **AAAI 2026 poster**.
 
 ## 2025

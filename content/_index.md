@@ -21,133 +21,93 @@ draft: false
 .post h6 { line-height: 1.3 !important; }
 
 .home-hero {
-  position: relative;
   display: grid;
-  grid-template-columns: minmax(0, 1.65fr) minmax(190px, 0.7fr);
-  gap: 2.2rem;
-  overflow: hidden;
-  margin: 0.5rem 0 3.2rem;
-  padding: 2.7rem 2.6rem;
-  border-radius: 20px;
-  color: #f9fbff;
-  background:
-    radial-gradient(circle at 89% 17%, rgba(126, 224, 255, 0.38), transparent 20%),
-    radial-gradient(circle at 72% 105%, rgba(163, 112, 255, 0.48), transparent 36%),
-    linear-gradient(128deg, #071d45 0%, #123875 48%, #352a78 100%);
-  box-shadow: 0 18px 38px rgba(20, 42, 99, 0.22);
-}
-
-.home-hero::after {
-  position: absolute;
-  right: -80px;
-  bottom: -115px;
-  width: 285px;
-  height: 285px;
-  border: 1px solid rgba(255, 255, 255, 0.25);
-  border-radius: 50%;
-  content: "";
+  grid-template-columns: minmax(0, 1fr) minmax(190px, 0.42fr);
+  gap: 2rem;
+  margin: 0.5rem 0 3rem;
+  padding: 0 0 2rem;
+  border-bottom: 1px solid #dfe4ea;
 }
 
 .home-eyebrow {
-  margin: 0 0 0.7rem;
-  color: #9ce9ff;
+  margin: 0 0 0.45rem;
+  color: #53657a;
   font-size: 0.78em !important;
-  font-weight: 750;
-  letter-spacing: 0.13em;
+  font-weight: 700;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
 }
 
 .home-hero h1 {
-  max-width: 660px;
-  margin: 0 0 0.85rem;
-  color: #ffffff;
-  font-size: clamp(2rem, 4vw, 3.15rem) !important;
-  letter-spacing: -0.045em;
-  line-height: 1.08 !important;
+  max-width: 680px;
+  margin: 0 0 0.7rem;
+  color: #1d2a39;
+  font-size: clamp(2rem, 4vw, 2.85rem) !important;
+  letter-spacing: -0.035em;
+  line-height: 1.12 !important;
 }
 
 .home-hero-copy {
-  position: relative;
-  z-index: 1;
   max-width: 710px;
   margin: 0;
-  color: rgba(245, 249, 255, 0.9);
+  color: #455364;
 }
 
 .home-focuses {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.55rem;
-  margin-top: 1.25rem;
+  gap: 0.45rem;
+  margin-top: 1rem;
 }
 
 .home-focuses span {
-  padding: 0.34rem 0.7rem;
-  border: 1px solid rgba(202, 237, 255, 0.4);
-  border-radius: 999px;
-  background: rgba(255, 255, 255, 0.1);
-  color: #ecf8ff;
+  padding: 0.2rem 0.55rem;
+  border: 1px solid #d5dce5;
+  border-radius: 4px;
+  color: #435263;
   font-size: 0.77em !important;
-  font-weight: 650;
+  font-weight: 600;
   line-height: 1.2 !important;
 }
 
 .home-hero-aside {
-  position: relative;
-  z-index: 1;
   align-self: center;
-  transform: translateY(-0.2rem);
-  padding: 1.2rem 1.25rem;
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  border-radius: 14px;
-  background: rgba(255, 255, 255, 0.1);
-  backdrop-filter: blur(8px);
+  padding-left: 1.35rem;
+  border-left: 2px solid #315b85;
 }
 
 .home-hero-aside span,
 .home-hero-aside strong { display: block; }
 
 .home-hero-aside span {
-  color: #aedfff;
+  color: #657488;
   font-size: 0.73em !important;
-  font-weight: 750;
+  font-weight: 700;
   letter-spacing: 0.1em;
   text-transform: uppercase;
 }
 
 .home-hero-aside strong {
   margin-top: 0.22rem;
-  color: #ffffff;
-  font-size: 1.15em !important;
+  color: #27384b;
+  font-size: 1.05em !important;
   line-height: 1.25 !important;
 }
 
 .home-hero-aside hr {
   height: 1px;
-  margin: 0.95rem 0;
+  margin: 0.85rem 0;
   border: 0;
-  background: rgba(255, 255, 255, 0.18);
+  background: #dfe4ea;
 }
 
-.home-section { margin: 3.1rem 0; }
+.home-section { margin: 2.75rem 0; }
 
 .home-section > h2 {
-  display: flex;
-  align-items: center;
-  gap: 0.65rem;
-  margin-bottom: 1.15rem;
-  color: #132f5e;
-  font-size: 1.38em !important;
+  margin-bottom: 0.9rem;
+  color: #26384a;
+  font-size: 1.3em !important;
   letter-spacing: -0.02em;
-}
-
-.home-section > h2::before {
-  display: inline-block;
-  width: 0.32rem;
-  height: 1.3em;
-  border-radius: 999px;
-  background: linear-gradient(180deg, #34bdd8, #6554dd);
-  content: "";
 }
 
 .home-section--featured { margin-top: 0; }
@@ -161,67 +121,46 @@ draft: false
 
 .featured-project,
 .home-highlight {
-  position: relative;
   display: flex;
   flex-direction: column;
-  overflow: hidden;
-  border: 1px solid rgba(36, 72, 123, 0.13);
-  border-radius: 14px;
-  padding: 1.25rem 1.28rem;
-  background: #f8fbff;
+  border: 1px solid #dfe4ea;
+  border-radius: 6px;
+  padding: 1.1rem 1.15rem;
+  background: #fff;
 }
 
 .featured-project {
-  min-height: 210px;
-  color: #1d3154;
+  min-height: 185px;
+  color: #33475b;
   text-decoration: none;
-  transition: transform 190ms ease, box-shadow 190ms ease, border-color 190ms ease;
+  transition: border-color 160ms ease, box-shadow 160ms ease;
 }
-
-.featured-project::before {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 5px;
-  background: linear-gradient(90deg, #18b8d5, #386bd9);
-  content: "";
-}
-
-.featured-project:nth-child(2) { background: linear-gradient(145deg, #fbfaff, #f0edff); }
-.featured-project:nth-child(2)::before { background: linear-gradient(90deg, #7760df, #ac63d5); }
-.featured-project:nth-child(3) { background: linear-gradient(145deg, #fffdf8, #fff3df); }
-.featured-project:nth-child(3)::before { background: linear-gradient(90deg, #f09a39, #e66754); }
 
 .featured-project:hover {
-  color: #132f5e;
+  color: #26384a;
   text-decoration: none;
-  transform: translateY(-5px);
-  border-color: rgba(58, 96, 170, 0.32);
-  box-shadow: 0 15px 30px rgba(20, 46, 101, 0.15);
+  border-color: #99aab9;
+  box-shadow: 0 3px 10px rgba(38, 56, 74, 0.08);
 }
 
 .home-status {
   display: table;
   width: fit-content;
   margin: 0 0 0.75rem;
-  padding: 0.2rem 0.52rem;
-  border-radius: 999px;
-  color: #0c6c8e;
-  background: #dff5fb;
+  padding: 0.12rem 0.42rem;
+  border: 1px solid #cbd5df;
+  border-radius: 3px;
+  color: #455b70;
   font-size: 0.74em !important;
-  font-weight: 650;
+  font-weight: 600;
   letter-spacing: 0.02em;
   line-height: 1.25 !important;
 }
 
-.featured-project:nth-child(2) .home-status { color: #5b42a5; background: #e9e3ff; }
-.featured-project:nth-child(3) .home-status { color: #a65516; background: #ffebcf; }
-
 .featured-project h3,
 .home-highlight h3 {
   margin: 0 0 0.45rem;
-  color: #152e58;
+  color: #26384a;
   font-size: 1.04em !important;
 }
 
@@ -229,28 +168,12 @@ draft: false
 .home-highlight p { margin: 0; }
 
 .home-highlight {
-  min-height: 108px;
+  min-height: 96px;
   justify-content: center;
-  padding-left: 1.35rem;
-  background: linear-gradient(135deg, #ffffff, #f4f8ff);
+  background: #fafbfc;
 }
 
-.home-highlight::before {
-  position: absolute;
-  top: 1.15rem;
-  bottom: 1.15rem;
-  left: 0;
-  width: 4px;
-  border-radius: 0 999px 999px 0;
-  background: #36b9d4;
-  content: "";
-}
-
-.home-highlight:nth-child(2)::before { background: #745fdb; }
-.home-highlight:nth-child(3)::before { background: #ed9a36; }
-.home-highlight:nth-child(4)::before { background: #e65e77; }
-.home-highlight h3 { color: #263d67; }
-.home-highlight p { color: #52637d; font-size: 0.91em !important; }
+.home-highlight p { color: #59697a; font-size: 0.91em !important; }
 
 .home-news {
   max-width: 930px;
@@ -263,45 +186,33 @@ draft: false
   display: grid;
   grid-template-columns: 108px 1fr;
   gap: 0.9rem;
-  padding: 0.9rem 1rem;
-  border-top: 1px solid rgba(41, 81, 143, 0.1);
-  border-left: 3px solid transparent;
-  background: linear-gradient(90deg, #f5f9ff, rgba(245, 249, 255, 0));
-  transition: border-color 160ms ease, transform 160ms ease;
+  padding: 0.75rem 0;
+  border-top: 1px solid #e1e6eb;
 }
 
-.home-news li:hover {
-  border-left-color: #3d9fd3;
-  transform: translateX(3px);
-}
-
-.home-news li:last-child { border-bottom: 1px solid rgba(41, 81, 143, 0.1); }
+.home-news li:last-child { border-bottom: 1px solid #e1e6eb; }
 
 .home-news time {
-  color: #456994;
+  color: #637384;
   font-size: 0.87em !important;
   font-weight: 650;
 }
 
 .archive-link {
   display: inline-block;
-  margin-top: 1rem;
-  padding: 0.5rem 0.85rem;
-  border-radius: 999px;
-  color: #214d93 !important;
-  background: #e9f0ff;
+  margin-top: 0.8rem;
+  color: #315b85 !important;
   font-size: 0.87em !important;
-  font-weight: 700;
-  transition: transform 160ms ease, background 160ms ease;
+  font-weight: 600;
 }
 
-.archive-link:hover { background: #dbe8ff; transform: translateX(3px); }
+.archive-link:hover { color: #1f466d !important; }
 
 .news-slider {
   display: flex;
-  gap: 1rem;
+  gap: 0.75rem;
   overflow-x: auto;
-  padding: 0.15rem 0 0.9rem;
+  padding: 0 0 0.75rem;
   scroll-snap-type: x mandatory;
   -webkit-overflow-scrolling: touch;
   scrollbar-width: thin;
@@ -309,23 +220,18 @@ draft: false
 
 .news-slide {
   flex: 0 0 min(78%, 330px);
-  min-height: 148px;
+  min-height: 128px;
   scroll-snap-align: start;
-  border: 1px solid rgba(54, 85, 137, 0.14);
-  border-radius: 14px;
-  padding: 1.1rem 1.2rem;
-  background: linear-gradient(145deg, #f5fbff, #edf3ff);
-  box-shadow: 0 7px 16px rgba(34, 68, 126, 0.07);
+  border: 1px solid #dfe4ea;
+  border-radius: 6px;
+  padding: 1rem 1.1rem;
+  background: #fff;
 }
-
-.news-slide:nth-child(2) { background: linear-gradient(145deg, #fbfaff, #f1efff); }
-.news-slide:nth-child(3) { background: linear-gradient(145deg, #fffdf8, #fff2df); }
-.news-slide:nth-child(4) { background: linear-gradient(145deg, #fff9fb, #ffedf3); }
 
 .news-slide time {
   display: block;
   margin-bottom: 0.6rem;
-  color: #456994;
+  color: #637384;
   font-size: 0.82em !important;
   font-weight: 650;
 }
@@ -334,7 +240,7 @@ draft: false
 
 .slider-hint {
   margin: -0.15rem 0 0.7rem;
-  color: #6d7782;
+  color: #6a7785;
   font-size: 0.83em !important;
 }
 
@@ -342,8 +248,7 @@ draft: false
   .home-hero {
     grid-template-columns: 1fr;
     gap: 1.3rem;
-    padding: 2rem 1.45rem;
-    border-radius: 16px;
+    padding-bottom: 1.5rem;
   }
 
   .home-news li { grid-template-columns: 1fr; gap: 0.15rem; }
@@ -387,7 +292,7 @@ draft: false
     <p>Pairs a rank-aware CUDA/Triton kernel suite with a unified runtime for memory-efficient low-rank Transformer inference.</p>
   </a>
   <a class="featured-project" href="https://arxiv.org/abs/2604.01552" target="_blank" rel="noopener">
-    <span class="home-status">ACM MM 2026 · Poster</span>
+    <span class="home-status">ACM MM 2026 · Oral</span>
     <h3>ZEUS</h3>
     <p>Uses a training-free second-order predictor to reduce denoiser evaluations in diffusion and other ODE-based generative models.</p>
   </a>
@@ -418,7 +323,7 @@ draft: false
 
 <ul class="home-news">
   <li><time datetime="2026-06">Jun. 2026</time><span>DecodeShare was selected as an <strong>ICML 2026 Spotlight</strong>.</span></li>
-  <li><time datetime="2026">2026</time><span><strong>ZEUS</strong> was accepted to ACM Multimedia 2026; I am a co-first author.</span></li>
+  <li><time datetime="2026">2026</time><span><strong>ZEUS</strong> was selected for an <strong>ACM Multimedia 2026 Oral presentation</strong>; I am a co-first author.</span></li>
   <li><time datetime="2026">2026</time><span><strong>FlashSVD</strong> was presented as an AAAI 2026 poster.</span></li>
 </ul>
 
