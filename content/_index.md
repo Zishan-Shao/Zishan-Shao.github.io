@@ -401,6 +401,10 @@ draft: false
 
 <div class="home-highlights">
   <article class="home-highlight">
+    <h3>ACM MM 2026 Oral</h3>
+    <p>ZEUS was selected for an Oral presentation at ACM Multimedia 2026.</p>
+  </article>
+  <article class="home-highlight">
     <h3>ICML 2026 Spotlight</h3>
     <p>DecodeShare was selected for a Spotlight presentation.</p>
   </article>
